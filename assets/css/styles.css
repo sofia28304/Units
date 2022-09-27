@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5px;
+}
+
+p {
+    width: 80vw;
+}
+
+section {
+    border: 2px solid rgb(135, 135, 135);
+    font-size: 1.5rem;
+    /* margin-right: 10vw; */
+    width: 300px;
+
+}
+
+section ul {
+    padding-inline-start: 1.2em;
+}
+
+section ul li {
+    font-size: 0.8em;
+    line-height: 1.5em;
+
+}
+
+section ul li ul li {
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
+
+section ul {
+    list-style: none;
+}
+
+/* .dog {
+    list-style: 🐶;
+} */
